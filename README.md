@@ -1,2 +1,2 @@
 # item-giver
-idk..
+This is an Roblox item giver for lucky block battlegrounds 
